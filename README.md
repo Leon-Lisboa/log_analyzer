@@ -1,7 +1,15 @@
 # log_analyzer
 Analisador de Logs - Este é um aplicativo de interface gráfica (GUI) desenvolvido em Python que permite analisar arquivos de log, filtrar erros, exportar dados e gerar gráficos de distribuição dos logs.
 
-## Funcionalidades
+## Principais Funcionalidades : 
+
+✅ Leitura e análise de logs de diferentes formatos (Apache, Nginx, Windows, Linux, etc.)
+✅ Interface gráfica intuitiva (GUI) com Tkinter para facilitar a navegação
+✅ Filtros avançados por data, tipo de erro, IP, status HTTP, etc.
+✅ Visualização gráfica de tendências usando Matplotlib
+✅ Exportação de relatórios para CSV e JSON
+
+## Outras Funcionalidades
 - Abrir e carregar arquivos de log (.log, .txt)
 - Filtrar mensagens de erro
 - Exportar os logs analisados para CSV
