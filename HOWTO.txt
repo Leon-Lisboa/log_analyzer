@@ -1,0 +1,43 @@
+### HOWTO.txt (Português)
+# Como Usar o Analisador de Logs
+
+1. Execute o seguinte comando para instalar as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Execute o programa:
+   ```bash
+   python log_analyzer.py
+   ```
+3. Utilize a interface para abrir arquivos de log, filtrar erros e gerar gráficos.
+
+---
+
+### HOWTO.txt (English)
+# How to Use the Log Analyzer
+
+1. Run the following command to install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Run the program:
+   ```bash
+   python log_analyzer.py
+   ```
+3. Use the interface to open log files, filter errors, and generate graphs.
+
+---
+
+### HOWTO.txt (Español)
+# Cómo Usar el Analizador de Logs
+
+1. Ejecute el siguiente comando para instalar las dependencias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Ejecute el programa:
+   ```bash
+   python log_analyzer.py
+   ```
+3. Use la interfaz para abrir archivos de registro, filtrar errores y generar gráficos.
+
